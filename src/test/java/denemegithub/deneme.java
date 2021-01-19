@@ -5,6 +5,8 @@ public class deneme {
         System.out.println("first");
         System.out.println("second");
         System.out.println("ucuncu");
+        System.out.println("dort");
+
     }
 }
 
